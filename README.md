@@ -1,7 +1,7 @@
 # Making-Smoke-Alarms-Safer-and-Better
 
-__Enhance safety & efficiency of smoke alarms by optimising a machine learning model to
-reduce false negatives and increasing accuracy & true positives.__
+Enhance safety & efficiency of smoke alarms by optimising a machine learning model to
+reduce false negatives and increasing accuracy & true positives.
 
 This report determines the best machine learning algorithm for a smoke alarm by using a smoke
 alarm dataset to train and test many different models and analysing them on a set of methods of
